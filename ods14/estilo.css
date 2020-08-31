@@ -1,0 +1,28 @@
+h1{
+    color: black;
+    padding-left: 8%;
+    padding-top: 5%;
+}
+body{
+    background: #008cff;
+}
+p{
+    color: white;
+}
+section {
+    float: left;
+    
+    position: relative;
+}
+
+.coluna {
+    float: left ;
+     padding: 0 5%;
+     position: relative;
+}
+.dois {
+    width: 40%;
+}
+#ods{
+   padding-top:30px ;
+}
